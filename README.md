@@ -1,13 +1,10 @@
-# Getting Started with Create React App
-# Package User
-#### "react": "^18.2.0",
-####  
-#### 
-#### 
+# Smartunion_landing Package User
+#### react 18.2.0
+#### aos 2.3.4
+#### react-hook-form 7.45.2,
+#### yup 
 #### 
 #### 
 #### 
 #### 
 
-
-# smartunion_landing
